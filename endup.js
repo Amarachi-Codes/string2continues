@@ -10,4 +10,4 @@ repeatEnd('Hello', 1) → o
 
 function repeatEnd(str, n){
     return str.slice(-n).repeat(n)
-  }
+  }console.log(repeatEnd('Hello', 3));
