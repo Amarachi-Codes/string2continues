@@ -21,4 +21,4 @@ function start1(a, b) {
     }
 
     return len;
-}
+}console.log(start1([1, 2, 3], [1, 3]));
